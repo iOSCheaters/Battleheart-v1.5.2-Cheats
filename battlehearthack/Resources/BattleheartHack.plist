@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Battleheart Hack</string>
+			<key>footerText</key>
+			<string>Make sure you disable this once you have alot of coins, or else your coins will go negative!!!</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>BattleheartHack</string>
+			<key>key</key>
+			<string>kCoins</string>
+			<key>label</key>
+			<string>Unlimited Coins</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Don't Forget To Respring!!</string>
+			<key>footerText</key>
+			<string>Credits: Lawivido. Only for iOSCheaters.com</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>link</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Visit www.ioscheaters.com for more!</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Battleheart Hack</string>
+</dict>
+</plist>
