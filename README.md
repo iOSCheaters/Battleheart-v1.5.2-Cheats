@@ -12,3 +12,6 @@ Lawivido
 ##### Usage
 * Just pop it into your project folder, cd to it, and make package install to compile.
 * You can use this as a base to play around with the settings plist or the tweak to see what happens when you change stuff :)
+
+##### Features
+* Unlimited Gold
